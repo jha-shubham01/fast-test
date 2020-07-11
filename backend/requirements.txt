@@ -2,4 +2,4 @@ django==3.0.4
 djangorestframework==3.11.0
 django-celery-results== 1.2.1
 django-filter==3.2.4
-django-celery
+django-celery== 3.3.1
